@@ -1,0 +1,6 @@
+C:\Users\J_Chr\source\repos\ConsultaMedica\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\J_Chr\source\repos\ConsultaMedica\Modelos\bin\Debug\Modelos.dll
+C:\Users\J_Chr\source\repos\ConsultaMedica\Modelos\bin\Debug\Modelos.pdb
+C:\Users\J_Chr\source\repos\ConsultaMedica\Modelos\obj\Debug\Modelos.csprojAssemblyReference.cache
+C:\Users\J_Chr\source\repos\ConsultaMedica\Modelos\obj\Debug\Modelos.dll
+C:\Users\J_Chr\source\repos\ConsultaMedica\Modelos\obj\Debug\Modelos.pdb

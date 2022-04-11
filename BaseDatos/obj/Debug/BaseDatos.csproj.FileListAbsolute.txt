@@ -1,0 +1,9 @@
+C:\Users\J_Chr\source\repos\ConsultaMedica\BaseDatos\obj\Debug\BaseDatos.csproj.CoreCompileInputs.cache
+C:\Users\J_Chr\source\repos\ConsultaMedica\BaseDatos\bin\Debug\BaseDatos.dll
+C:\Users\J_Chr\source\repos\ConsultaMedica\BaseDatos\bin\Debug\BaseDatos.pdb
+C:\Users\J_Chr\source\repos\ConsultaMedica\BaseDatos\bin\Debug\Modelos.dll
+C:\Users\J_Chr\source\repos\ConsultaMedica\BaseDatos\bin\Debug\Modelos.pdb
+C:\Users\J_Chr\source\repos\ConsultaMedica\BaseDatos\obj\Debug\BaseDatos.csprojAssemblyReference.cache
+C:\Users\J_Chr\source\repos\ConsultaMedica\BaseDatos\obj\Debug\BaseDatos.csproj.CopyComplete
+C:\Users\J_Chr\source\repos\ConsultaMedica\BaseDatos\obj\Debug\BaseDatos.dll
+C:\Users\J_Chr\source\repos\ConsultaMedica\BaseDatos\obj\Debug\BaseDatos.pdb
